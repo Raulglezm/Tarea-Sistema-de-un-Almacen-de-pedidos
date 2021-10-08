@@ -61,4 +61,4 @@
 ```
 #
 # Procedimiento: 
-Lo primero fue dividir las distintas etiquetas y sus características, para posteriormente crear el DTD y por último una muestra del funcionamiento del código, hay que tener en cuneta datos como que el color de las flores es opcional. 
+Lo primero fue dividir las distintas etiquetas y sus características, para posteriormente crear el DTD y por último una muestra del funcionamiento del código, hay que tener en cuenta datos como que el color de las flores es opcional. 
